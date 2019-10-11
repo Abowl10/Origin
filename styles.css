@@ -1,0 +1,15 @@
+Body {
+  background-color: #66CC99;
+  font-family: sans-serif;
+  color: white;
+}
+
+H4 {
+  color:#ffffb3 ;
+  font-size: 80%;
+}
+H1 {
+  border-color: white;
+  border-style: inset;
+  box-shadow: 60px -16px #ffffb3;
+}
